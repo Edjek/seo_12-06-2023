@@ -1,0 +1,41 @@
+TP de SEO :
+
+1. Qu'est-ce que le SEO et pourquoi est-il important pour un site web ?
+
+2. Quels sont les principaux éléments d'optimisation on-page que vous devez prendre en compte lors de la création d'un site web ?
+
+3. Qu'est-ce qu'un mot-clé et comment effectueriez-vous une recherche de mots-clés pertinents pour un site web ?
+
+4. Comment optimiser les balises de titre et les balises méta pour améliorer le classement d'un site web ?
+
+5. Quelles sont les meilleures pratiques pour l'optimisation des images et des médias sur un site web ?
+
+6. Quels sont les facteurs importants à considérer pour créer une URL conviviale pour les moteurs de recherche ?
+
+7. Quelle est l'importance des backlinks dans le SEO et comment pouvez-vous les obtenir pour un site web ?
+
+8. Comment l'utilisation des réseaux sociaux peut-elle contribuer à l'amélioration du référencement d'un site web ?
+
+9. Quels sont les outils couramment utilisés pour suivre et analyser les performances d'un site web en termes de référencement ?
+
+10. Comment pouvez-vous utiliser les données et les analyses pour ajuster et améliorer une stratégie de référencement ?
+
+Ces questions couvrent les bases du SEO et permettront aux développeurs web débutants d'approfondir leur compréhension et d'appliquer ces concepts à un projet pratique.
+
+edjek@hotmail.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

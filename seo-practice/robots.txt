@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Allow: /admin/user
+Sitemap: https://www.mon-site.fr/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /private
+Allow: /
+
+User-agent: AdsBot
+Disallow: /
